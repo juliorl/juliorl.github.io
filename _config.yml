@@ -29,15 +29,12 @@ permalink: /:year/:slug/
 encoding: UTF-8
 
 # Build settings
-theme: no-style-please
+theme: minima
 plugins:
   - jekyll-feed
 
 # kramdown:
 #  hard_wrap: true
-
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
